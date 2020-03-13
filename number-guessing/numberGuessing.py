@@ -11,7 +11,7 @@ x = random.randint(1,100)
 #Podgląd wylosowanej liczby
 # print(x)
 
-print("A teraz zgadij wylosowaną liczbę :)")
+print("A teraz zgadnij wylosowaną liczbę :)")
 
 while True:
     a = int(input("Wpisz swoją liczbę: "))
